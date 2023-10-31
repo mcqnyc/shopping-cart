@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Front End for a Shopping Cart
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
